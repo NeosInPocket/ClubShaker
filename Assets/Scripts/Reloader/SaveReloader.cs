@@ -45,6 +45,8 @@ public class SaveReloader : MonoBehaviour
 
 	private void ReloadExisting()
 	{
+		reloadValues = new int[7];
+
 		for (int i = 0; i < reloadValues.Length; i++)
 		{
 			reloadValues[i] = PlayerPrefs.GetInt(allTypes[i].ToString());

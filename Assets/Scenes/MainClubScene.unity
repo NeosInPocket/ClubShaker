@@ -180,7 +180,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: gives extra for each one more extra
+  m_text: increases size of taget orb
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 0296824e44b012544888a78652a3856b, type: 2}
   m_sharedMaterial: {fileID: 5739534360545144860, guid: 0296824e44b012544888a78652a3856b, type: 2}
@@ -207,7 +207,7 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 70.95
+  m_fontSize: 78.12
   m_fontSizeBase: 36
   m_fontWeight: 400
   m_enableAutoSizing: 1
@@ -1241,7 +1241,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: gives extra for each one more extra
+  m_text: decreases sphere's rotation speed
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 0296824e44b012544888a78652a3856b, type: 2}
   m_sharedMaterial: {fileID: 5739534360545144860, guid: 0296824e44b012544888a78652a3856b, type: 2}
@@ -1268,7 +1268,7 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 70.95
+  m_fontSize: 68.55
   m_fontSizeBase: 36
   m_fontWeight: 400
   m_enableAutoSizing: 1
@@ -2389,7 +2389,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: FIST UPGRADE
+  m_text: orb UPGRADE
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 0296824e44b012544888a78652a3856b, type: 2}
   m_sharedMaterial: {fileID: 5739534360545144860, guid: 0296824e44b012544888a78652a3856b, type: 2}
@@ -4103,9 +4103,9 @@ RectTransform:
   m_Father: {fileID: 795238730}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
-  m_AnchorMax: {x: 0, y: 0}
+  m_AnchorMax: {x: 1, y: 1}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 0, y: 0}
+  m_SizeDelta: {x: 0, y: 568.176}
   m_Pivot: {x: 0.5, y: 1}
 --- !u!114 &1246619322
 MonoBehaviour:
@@ -5444,7 +5444,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 62e40dbf5c4725a4899d59d0770ff0bb, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  reloadNewSaves: 1
+  reloadNewSaves: 0
   defaultReloads: 010000007b0000000100000000000000000000000100000001000000
   allTypes: 00000000010000000200000003000000040000000500000006000000
 --- !u!4 &1490327401
@@ -6365,7 +6365,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &1872303825
 RectTransform:
   m_ObjectHideFlags: 0
@@ -8113,7 +8113,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: FIST UPGRADE
+  m_text: slow motion
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 0296824e44b012544888a78652a3856b, type: 2}
   m_sharedMaterial: {fileID: 5739534360545144860, guid: 0296824e44b012544888a78652a3856b, type: 2}
