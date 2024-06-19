@@ -10,7 +10,7 @@ public class Intermediation : MonoBehaviour
 	[SerializeField] private TMP_Text actionHolder;
 	private readonly string[] actions =
 	{
-		"welcome to clubshaker, wanderer",
+		"welcome to Plimo Blocks, wanderer",
 		"let's start by learning how to control your magic spheres",
 		"one of the spheres is constantly rotating around the other, tap on the screen to make the second sphere start rotating",
 		"direct your spheres into magical orbs to activate them",

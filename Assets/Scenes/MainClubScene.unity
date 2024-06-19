@@ -3432,7 +3432,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.09877939, y: 0.06252067}
   m_AnchorMax: {x: 0.54022056, y: 0.9374793}
-  m_AnchoredPosition: {x: -0.000030517578, y: 0}
+  m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: -0.000030517578, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1053334858
@@ -3589,7 +3589,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: club shaker
+  m_text: Plimo Blocks
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 0296824e44b012544888a78652a3856b, type: 2}
   m_sharedMaterial: {fileID: 5739534360545144860, guid: 0296824e44b012544888a78652a3856b, type: 2}
@@ -4896,7 +4896,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.09877939, y: 0.06252067}
   m_AnchorMax: {x: 0.54022056, y: 0.9374793}
-  m_AnchoredPosition: {x: -0.000030517578, y: 0}
+  m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: -0.000030517578, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1421577860
@@ -5629,7 +5629,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.23019847, y: 0.07224336}
   m_AnchorMax: {x: 0.7773989, y: 0.92773}
-  m_AnchoredPosition: {x: -0.9997406, y: 3.5999985}
+  m_AnchoredPosition: {x: -0.9997406, y: 3.600006}
   m_SizeDelta: {x: 0, y: -14.26}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1559424069
@@ -5912,7 +5912,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_AspectMode: 4
-  m_AspectRatio: 0.5629883
+  m_AspectRatio: 0.46191406
 --- !u!114 &1639752427
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -5983,11 +5983,11 @@ RectTransform:
   m_Children: []
   m_Father: {fileID: 2122200995}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.03977939, y: 0.29551193}
-  m_AnchorMax: {x: 0.64316916, y: 0.60300004}
+  m_AnchorMin: {x: 0.13977939, y: 0.28274405}
+  m_AnchorMax: {x: 0.656, y: 0.60300004}
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 0, y: 0}
-  m_Pivot: {x: 0.5, y: 0.5}
+  m_Pivot: {x: 0.5, y: 0}
 --- !u!114 &1705262831
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -7955,8 +7955,8 @@ RectTransform:
   - {fileID: 1168695802}
   - {fileID: 1873198858}
   - {fileID: 2100460665}
-  - {fileID: 1813007598}
   - {fileID: 1705262830}
+  - {fileID: 1813007598}
   m_Father: {fileID: 2008975238}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
