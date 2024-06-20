@@ -11,7 +11,7 @@ public class VirtualCameraController : CinemachineExtension
 
 	private void Start()
 	{
-		var resolution = ExtraInformationData.resolution;
+		var resolution = ExtraInformationData.GetExtraInformation();
 		left.transform.localPosition = new Vector2(-resolution.x - 0.5f, 0);
 		right.transform.localPosition = new Vector2(resolution.x + 0.5f, 0);
 

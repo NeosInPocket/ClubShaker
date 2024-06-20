@@ -75095,7 +75095,7 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 92
+  m_fontSize: 98.44
   m_fontSizeBase: 36
   m_fontWeight: 400
   m_enableAutoSizing: 1
@@ -75271,7 +75271,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_AspectMode: 4
-  m_AspectRatio: 0.4619141
+  m_AspectRatio: 0.5629883
 --- !u!114 &1611049733
 MonoBehaviour:
   m_ObjectHideFlags: 0

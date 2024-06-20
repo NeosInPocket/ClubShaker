@@ -13,7 +13,7 @@ public class GrabberSpawner : MonoBehaviour
 
 	private void Start()
 	{
-		resolution = ExtraInformationData.resolution;
+		resolution = ExtraInformationData.GetExtraInformation();
 		lastGrabber = firstGrabber;
 	}
 
